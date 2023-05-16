@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './assets/react.svg'
 import './App.css';
 import liff from '@line/liff';
 import { useEffect, useState } from 'react';
